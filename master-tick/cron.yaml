@@ -1,4 +1,0 @@
-cron:
-- description: Dashboard master tick
-  url: /tasks/tick
-  schedule: every 1 mins
