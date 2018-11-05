@@ -1,6 +1,6 @@
 [submodule "sena-cli"]
 	path = sena-cli
-	url = https://github.com/ouchadam/sena-cli
+	url = git@github.com:ouchadam/sena-cli
 [submodule "sena-plugin"]
 	path = sena-plugin
-	url = https://github.com/ouchadam/sena-plugin
+	url = git@github.com:ouchadam/sena-plugin
